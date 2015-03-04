@@ -1,5 +1,5 @@
 solutions = [
-  { "name"        : "mid-b",
+  { "name"        : "./",
     "url"         : "git@github.com:lbrownell-gpsw/mid-b-ljb.git",
     "deps_file"   : "DEPS",
     "managed"     : False,
